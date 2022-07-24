@@ -13,7 +13,7 @@ WA.onInit().then(() => {
 
     WA.room.onEnterLayer('clockZone').subscribe(() => {
         const today = new Date();
-        const time = today.getHours() + ":" + today.getMinutes();
+        const time = today.getHours().toString().padStart(2,"0") + ":" + today.getMinutes().toString().padStart(2,"0");
         currentPopup = WA.ui.openPopup("clockPopup","It's " + time,[]);
     })
 
