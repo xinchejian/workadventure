@@ -1,0 +1,53 @@
+{
+    "activeFile": "map.json",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "map.json": {
+            "scale": 0.29974798387096774,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 128.4412308727089,
+                "y": 160.1345216075331
+            }
+        },
+        "map.json#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_User_Interface": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "map.json"
+    ],
+    "project": "xinchejian.tiled-project",
+    "recentFiles": [
+        "map.json"
+    ]
+}
